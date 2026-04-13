@@ -1,0 +1,6 @@
+{
+  "name": "cidns/policy-engine",
+  "description": "Policy Engine for AI governance and compliance",
+  "type": "project",
+  "autoload": { "psr-4": { "App\\": "src/" } }
+}
